@@ -15,7 +15,7 @@ Install it into your android device by on the downloaded apk and install it.
 https://drive.google.com/file/d/1fvaUNNIbOg8mfIJGs2Xxfglki9x9DBZF/view?usp=sharing
 
 Teammates:
-John.#3260 (Leader)
-666×reaper#6756
-MR. OASIS#7294
-Abhiram#7180
+John.#3260 (Leader), 
+ 666×reaper#6756,
+ MR. OASIS#7294,
+ Abhiram#7180
