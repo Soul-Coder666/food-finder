@@ -12,6 +12,7 @@ Made with the help of Android Studio, Java.
 STEPS FOR INSTALLATION:
 Click on the apk file link to download it.
 Install it into your android device by on the downloaded apk and install it.
+https://drive.google.com/file/d/1fvaUNNIbOg8mfIJGs2Xxfglki9x9DBZF/view?usp=sharing
 
 Teammates:
 John.#3260 (Leader)
