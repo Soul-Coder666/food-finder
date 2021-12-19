@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Food Finder</string>
+    <string-array name="cities">
+        <item>Kolkata</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+        <item>Hyderabad</item>
+        <item>Ahmedabad</item>
+        <item>Jaipur</item>
+        <item>Lucknow</item>
+        <item>Kanpur</item>
+        <item>Nagpur</item>
+        <item>Patna</item>
+        <item>Bhopal</item>
+        <item>Vishakhapatnam</item>
+        <item>Srinagar</item>
+        <item>Ranchi</item>
+        <item>Chandigarh</item>
+        <item>Guwahati</item>
+        <item>Raipur</item>
+        <item>Bhubaneswar</item>
+        <item>Thiruvananthapuram</item>
+        <item>Dehradun</item>
+        <item>Jammu</item>
+        <item>Agartala</item>
+    </string-array>
+</resources>
