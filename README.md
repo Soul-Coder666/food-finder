@@ -1,4 +1,4 @@
-# food-finder
+# Food Finder
 A project made for Hackathon by Bluelearn.
 
 PROJECT TITLE: 
