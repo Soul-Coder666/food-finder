@@ -7,7 +7,8 @@ Food Finder
 PROJECT DESCRIPTION:
 Made by Team Alpha Void.
 An app which finds restaurants around you with seats available.
-Made with the help of Android Studio, Java.
+Made with the help of Android Studio, Java. It has login and register interface but does have the backend code for it,
+ has some restaurants names and details already in it's database for demonstration purpose.
 
 STEPS FOR INSTALLATION:
 Click on the apk file link to download it.
